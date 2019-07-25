@@ -1,0 +1,51 @@
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Project_Map.csprojResolveAssemblyReference.cache
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.GenerateResource.Cache
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Project Map\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Project Map\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Project Map\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csprojResolveAssemblyReference.cache
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+D:\Users\Joel\Documents\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.GenerateResource.Cache
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csprojResolveAssemblyReference.cache
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.GenerateResource.Cache
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.dll
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.xml
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.FrmQ1.resources
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.Properties.Resources.resources
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.exe.config
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.exe
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.pdb
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.exe
+D:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.pdb
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.exe.config
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.exe
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\Project_Map.pdb
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.dll
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\NAudio.xml
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csprojAssemblyReference.cache
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.FrmQ1.resources
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.Properties.Resources.resources
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.GenerateResource.cache
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.csproj.CopyComplete
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.exe
+C:\Users\Joel\Documents\Project Map\Project Map Backup\Q1 JeuEviterMurs\obj\Debug\Project_Map.pdb

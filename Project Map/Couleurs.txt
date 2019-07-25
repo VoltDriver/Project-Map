@@ -1,0 +1,8 @@
+0 = bleu
+1 = turquoise
+2 = jaune	
+3 = vert
+4 = rose
+5 = orange
+6 = rouge
+7 = gris

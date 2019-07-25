@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @3 Member=AjouterUnMur)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="AjouterUnMur" />
+    <Node Id="(@1 @2 @3 Member=DéfilerLesRangéesVersLeBas)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="DéfilerLesRangéesVersLeBas" />
+    <Node Id="(@1 @2 Type=Program Member=Main)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="Main" />
+    <Node Id="@10" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CoccinelleEstEnCollision" />
+    <Node Id="@11" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="InitializeComponent" />
+    <Node Id="@12" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="PréparerNouvellePartie" />
+    <Node Id="@5" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="mnuFichierNouvellePartie_Click" />
+    <Node Id="@6" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="tmrMurs_Tick" />
+    <Node Id="@8" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="viaGrille_KeyDown" />
+    <Node Id="@9" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="FrmQ1" />
+  </Nodes>
+  <Links>
+    <Link Source="(@1 @2 Type=Program Member=Main)" Target="@9" Category="CodeSchema_Calls" />
+    <Link Source="@11" Target="@5" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@11" Target="@6" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@11" Target="@8" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@5" Target="@12" Category="CodeSchema_Calls" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=AjouterUnMur)" Category="CodeSchema_Calls" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=DéfilerLesRangéesVersLeBas)" Category="CodeSchema_Calls" />
+    <Link Source="@6" Target="@10" Category="CodeSchema_Calls" />
+    <Link Source="@8" Target="@10" Category="CodeSchema_Calls" />
+    <Link Source="@9" Target="@11" Category="CodeSchema_Calls" />
+    <Link Source="@9" Target="@12" Category="CodeSchema_Calls" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Block" Label="Bloc" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Blocs" />
+    <Category Id="CodeSchema_Calls" Label="Appels" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Appelé par" OutgoingActionLabel="Appels" />
+    <Category Id="CodeSchema_FunctionPointer" Label="Pointeur de fonction" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Pointeurs de fonction" OutgoingActionLabel="Pointeurs de fonction" />
+    <Category Id="CodeSchema_Member" Label="Membre" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" IsProviderRoot="False" NavigationActionLabel="Membres" />
+    <Category Id="CodeSchema_Method" Label="Méthode" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" IsProviderRoot="False" NavigationActionLabel="Méthodes" />
+    <Category Id="CodeSchema_Statement" Label="Instruction" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Instruction" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="IsConstructor" Description="IsConstructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="IsPrivate" Description="IsPrivate" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="IsPublic" Description="IsPublic" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="IsSpecialName" Description="IsSpecialName" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Icon" Label="Icône" Description="Icône" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Étiquette" Description="Étiquette affichable d'un objet pouvant être annoté" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Membre" ValueType="System.Object" />
+    <Name Id="Name" Label="Nom" ValueType="System.String" />
+    <Name Id="Namespace" Label="Espace de noms" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Paramètre" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#1C3068" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Espace de noms" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#4A65A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Type" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#D3DCEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Méthode" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Génériques" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('Generics')" />
+      <Setter Property="Background" Value="#FFA080A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externes" ValueLabel="A la catégorie">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(ce6bec6d-b417-466a-b6de-5e3c54647f43.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=Q1JeuEviterLesMurs" />
+    <Alias n="3" Id="Type=FrmQ1" />
+    <Alias n="4" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll" />
+    <Alias n="5" Id="(@1 @2 @3 Member=(Name=mnuFichierNouvellePartie_Click OverloadingParameters=[(@4 Namespace=System Type=Object),(@4 Namespace=System Type=EventArgs)]))" />
+    <Alias n="6" Id="(@1 @2 @3 Member=(Name=tmrMurs_Tick OverloadingParameters=[(@4 Namespace=System Type=Object),(@4 Namespace=System Type=EventArgs)]))" />
+    <Alias n="7" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/System.Windows.Forms.dll" />
+    <Alias n="8" Id="(@1 @2 @3 Member=(Name=viaGrille_KeyDown OverloadingParameters=[(@4 Namespace=System Type=Object),(@7 Namespace=System.Windows.Forms Type=KeyEventArgs)]))" />
+    <Alias n="9" Id="(@1 @2 @3 Member=.ctor)" />
+    <Alias n="10" Id="(@1 @2 @3 Member=CoccinelleEstEnCollision)" />
+    <Alias n="11" Id="(@1 @2 @3 Member=InitializeComponent)" />
+    <Alias n="12" Id="(@1 @2 @3 Member=PréparerNouvellePartie)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="ce6bec6d-b417-466a-b6de-5e3c54647f43.OutputPathUri" Value="file:///I:/106/C-Evaluations/2-Formatif/Q1 AppJeuEviterMurs (Sprite et Grille) SOL/Q1 JeuEviterMurs/bin/Debug/Q1 JeuEviterMurs.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>

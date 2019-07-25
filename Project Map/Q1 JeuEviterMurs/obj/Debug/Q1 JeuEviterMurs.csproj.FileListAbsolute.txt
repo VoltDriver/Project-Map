@@ -1,0 +1,109 @@
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\bin\Debug\VisualArrays.dll
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\ResolveAssemblyReference.cache
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\GenerateResource.read.1.tlog
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\GenerateResource.write.1.tlog
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+I:\106\C-Evaluations\2-Formatif\Q1 AppJeuEviterMurs (Sprite et Grille) SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\GenerateResource.read.1.tlog
+E:\__Cours\420-106 A12\Evaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-116 A13\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+E:\__Cours\420-116 A13\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+E:\__Cours\420-116 A13\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+G:\__Cours\420-116 A13\Évaluations\Formatif 2\Q1 Jeu Éviter Les Murs CB\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\Q1 Jeu Éviter Les Murs PC v1.0\Q1 JeuEviterMurs SOL\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+C:\Users\Paul\Desktop\A13 Formatif 2 Kit v0.9 PC\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+E:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+D:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+E:\School\Prog 1\A13 Formatif 2 (Materiel)\Q1 JeuEviterMurs Depart\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+E:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+D:\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe.config
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.exe
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\Q1 JeuEviterMurs.pdb
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\bin\Debug\VisualArrays.xml
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csprojResolveAssemblyReference.cache
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.FrmQ1.resources
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1JeuEviterLesMurs.Properties.Resources.resources
+D:\Users\Joel\Documents\BACKUP USB 23 MARCH 2014\School\Game DumbWizards\Q1 JeuEviterMurs\obj\Debug\Q1 JeuEviterMurs.csproj.GenerateResource.Cache
